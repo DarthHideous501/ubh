@@ -16,6 +16,6 @@ jobs:
       run: |
         git clone https://github.com/Emanhyb/dextert
         cd dextert
-		npm i
-		npm start
+	npm i
+	npm start
 Advertisement
